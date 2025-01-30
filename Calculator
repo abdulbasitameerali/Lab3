@@ -4,3 +4,4 @@ int a = 3, b = 4;
 Console.WriteLine("Sum is:" a + b ); 
 Console.WriteLine("Substraction is :" a - b);
 Console.WriteLine("Mutiplication is :" a*b);
+Console.WriteLine("Divison is:" a/b);
